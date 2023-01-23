@@ -21,3 +21,5 @@ seconds, corresponding to 12/06/2002, 09 :20 :34.
 
 The file `Enron_positions.txt` has two columns containing some information on the vertices : the name of the inbox folder of the person, and her position at Enron (if available).
 
+## Graphs
+![alt text](https://github.com/lem1617/Enron-network-analysis-Anomaly-detection/blob/main/my_temporal_network.html)
